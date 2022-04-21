@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2111742707714471154}
   - component: {fileID: 2111742707714471155}
   - component: {fileID: 2111742707714471152}
-  - component: {fileID: 5530021820249667180}
+  - component: {fileID: 2026901943609704172}
   m_Layer: 5
   m_Name: DebugMetricsVR
   m_TagString: Untagged
@@ -26,17 +26,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2111742707714471158}
-  m_LocalRotation: {x: 0.4751155, y: -0.5272462, z: 0.5237035, w: 0.47118092}
-  m_LocalPosition: {x: 0, y: 0, z: -0.042750195}
+  m_LocalRotation: {x: -0.5, y: -0.5, z: 0.5, w: -0.5}
+  m_LocalPosition: {x: 0, y: 0, z: 3.3007326}
   m_LocalScale: {x: 0.0003124999, y: 0.00031250005, z: 0.00031249993}
   m_Children:
   - {fileID: 5652119460947602545}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 89.571, y: 174, z: 269.999}
+  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 270}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -0.019042969, y: 0.07659912}
+  m_AnchoredPosition: {x: 0.007293701, y: 0.53689575}
   m_SizeDelta: {x: 800, y: 600}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!223 &2111742707714471155
@@ -83,7 +83,7 @@ MonoBehaviour:
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
   m_PresetInfoIsWorld: 1
---- !u!114 &5530021820249667180
+--- !u!114 &2026901943609704172
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -92,7 +92,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2111742707714471158}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0a2043c0e10f67d44acd387b6b53ad56, type: 3}
+  m_Script: {fileID: 11500000, guid: 2fbc4a96ad3cbe84bbbe871ee027f490, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &5652119460947602546

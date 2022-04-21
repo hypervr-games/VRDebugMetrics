@@ -4,7 +4,6 @@
         "Sacristan.Utils.Averaged": "https://github.com/Sacristan/sacristan.utils.averaged.git"
     },
     "references": [
-        "HurricaneVR.Framework",
         "Sacristan.Utils.Averaged"
     ],
     "includePlatforms": [],
