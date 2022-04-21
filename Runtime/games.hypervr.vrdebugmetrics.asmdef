@@ -1,6 +1,7 @@
 {
-    "name": "com.package.name",
+    "name": "games.hypervr.vrdebugmetrics",
     "references": [
+        "HurricaneVR.Framework"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

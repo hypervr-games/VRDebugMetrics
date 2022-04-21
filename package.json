@@ -1,23 +1,17 @@
 {
-    "name": "com.package.name",
+    "name": "games.hypervr.vrdebugmetrics",
     "version": "0.0.1",
-    "displayName": "Package Template",
-    "description": "Package Template Description",
+    "displayName": "VR Debug Metrics",
+    "description": "Debug metrics for VR",
     "unity": "2018.1",
     "keywords": [
-        "Keyword1",
-        "Keyword2"
+        "debug",
+        "metrics",
+        "VR"
     ],
     "author": {
-        "name": "John Doe",
-        "email": "john@doe.com",
-        "url": "https://john.doe"
-    },
-    "samples": [
-        {
-            "displayName": "ExampleUsage",
-            "description": "Example Sample Code",
-            "path": "Samples~/ExampleFolderGoesHere"
-        }
-    ]
+        "name": "HyperVR",
+        "email": "info@hypervr.games",
+        "url": "https://hypervr.games"
+    }
 }
