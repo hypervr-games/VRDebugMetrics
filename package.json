@@ -1,6 +1,6 @@
 {
     "name": "games.hypervr.vrdebugmetrics",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "displayName": "VR Debug Metrics",
     "description": "Debug metrics for VR",
     "unity": "2018.1",

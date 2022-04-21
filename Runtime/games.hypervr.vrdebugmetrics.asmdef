@@ -1,7 +1,11 @@
 {
     "name": "games.hypervr.vrdebugmetrics",
+    "dependencies":{
+        "Sacristan.Utils.Averaged": "https://github.com/Sacristan/sacristan.utils.averaged.git"
+    },
     "references": [
-        "HurricaneVR.Framework"
+        "HurricaneVR.Framework",
+        "Sacristan.Utils.Averaged"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
