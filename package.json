@@ -1,0 +1,23 @@
+{
+    "name": "com.package.name",
+    "version": "0.0.1",
+    "displayName": "Package Template",
+    "description": "Package Template Description",
+    "unity": "2018.1",
+    "keywords": [
+        "Keyword1",
+        "Keyword2"
+    ],
+    "author": {
+        "name": "John Doe",
+        "email": "john@doe.com",
+        "url": "https://john.doe"
+    },
+    "samples": [
+        {
+            "displayName": "ExampleUsage",
+            "description": "Example Sample Code",
+            "path": "Samples~/ExampleFolderGoesHere"
+        }
+    ]
+}
